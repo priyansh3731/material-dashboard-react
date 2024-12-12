@@ -1,6 +1,6 @@
 /**
 =========================================================
-* Material Dashboard 2 React - v2.2.0
+* Scholars React - v2.2.0
 =========================================================
 
 * Product Page: https://www.creative-tim.com/product/material-dashboard-react
@@ -21,11 +21,11 @@ import Container from "@mui/material/Container";
 import Link from "@mui/material/Link";
 import Icon from "@mui/material/Icon";
 
-// Material Dashboard 2 React components
+// Scholars React components
 import MDBox from "components/MDBox";
 import MDTypography from "components/MDTypography";
 
-// Material Dashboard 2 React base styles
+// Scholars React base styles
 import typography from "assets/theme/base/typography";
 
 function Footer({ light }) {
@@ -59,7 +59,7 @@ function Footer({ light }) {
             by
             <Link href="https://www.creative-tim.com/" target="_blank">
               <MDTypography variant="button" fontWeight="medium" color={light ? "white" : "dark"}>
-                &nbsp;Creative Tim&nbsp;
+                &nbsp;Scholars&nbsp;
               </MDTypography>
             </Link>
             for a better web.

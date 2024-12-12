@@ -1,6 +1,6 @@
 /**
 =========================================================
-* Material Dashboard 2 React - v2.2.0
+* Scholars React - v2.2.0
 =========================================================
 
 * Product Page: https://www.creative-tim.com/product/material-dashboard-react
@@ -21,7 +21,7 @@ import PropTypes from "prop-types";
 // Custom styles for MDTypography
 import MDTypographyRoot from "components/MDTypography/MDTypographyRoot";
 
-// Material Dashboard 2 React contexts
+// Scholars React contexts
 import { useMaterialUIController } from "context";
 
 const MDTypography = forwardRef(
